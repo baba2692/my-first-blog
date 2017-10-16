@@ -25,7 +25,7 @@ SECRET_KEY = 'idj+v+!7ifflc%36#9&t+7w@rb)k-9x+0u%qf+-#c-sdvjecnt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ventrapragada.pythonanywhere.com']
 
 
 # Application definition
