@@ -25,7 +25,11 @@ SECRET_KEY = 'idj+v+!7ifflc%36#9&t+7w@rb)k-9x+0u%qf+-#c-sdvjecnt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+<<<<<<< HEAD
 ALLOWED_HOSTS = ['127.0.0.1', 'ventrapragada.pythonanywhere.com']
+=======
+ALLOWED_HOSTS = ['ventrapragada.pythonanywhere.com']
+>>>>>>> befa2da7026a9ac9d5033e0a44b7fe9c7539c752
 
 
 # Application definition
@@ -78,8 +82,12 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': '/home/sai/mysite/mysite/db.sqlite3',
+<<<<<<< HEAD
         
       
+=======
+       
+>>>>>>> befa2da7026a9ac9d5033e0a44b7fe9c7539c752
     }
 }
 
